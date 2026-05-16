@@ -1,7 +1,7 @@
-title: "MÖRK BORG Wiki"
-description: "A Canonical Wiki of a Dying World"
-baseurl: "/mork-borg-wiki"
-url: "https://trevor-ryan-burkholder.github.io"
+title: 'MÖRK BORG Wiki'
+description: 'A Fan-made Wiki of a Dying World'
+baseurl: '/mork-borg-wiki'
+url: 'https://trevor-ryan-burkholder.github.io'
 
 # Build settings
 markdown: kramdown
@@ -16,3 +16,4 @@ exclude:
 # Collections (none needed — flat pages)
 # GitHub Pages safe mode
 plugins: []
+

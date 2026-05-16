@@ -1,6 +1,6 @@
 # MÖRK BORG — Project
 
-A living wiki and creative expansion project for the MÖRK BORG tabletop RPG. Contains canonical lore extracted from official source PDFs, organized as a Jekyll-based wiki for GitHub Pages, plus original expansions built to spec.
+A living wiki and creative expansion project for the MÖRK BORG tabletop RPG. Contains lore extracted from official source PDFs, organized as a Jekyll-based wiki for GitHub Pages, plus original expansions built to spec.
 
 ---
 
@@ -8,7 +8,7 @@ A living wiki and creative expansion project for the MÖRK BORG tabletop RPG. Co
 
 ```
 /source       — Official PDFs (read only, canon)
-/wiki         — Canonical lore in Obsidian markdown (the source of truth)
+/wiki         — Lore in Obsidian markdown (the source of truth)
 /docs         — Jekyll site for GitHub Pages (built from wiki/)
 /expansions   — Original content: new monsters, locations, tables, adventures
 ```
@@ -17,7 +17,7 @@ A living wiki and creative expansion project for the MÖRK BORG tabletop RPG. Co
 
 ## The Wiki (`/wiki`)
 
-Obsidian vault with all canonical content extracted and organized from source PDFs. Uses `[[WikiLink]]` syntax for cross-references.
+Obsidian vault with all content extracted and organized from source PDFs. Uses `[[WikiLink]]` syntax for cross-references.
 
 Sections:
 

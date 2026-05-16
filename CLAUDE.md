@@ -2,8 +2,8 @@
 
 ## What This Is
 
-A living Mörk Borg wiki and creative expansion project. 
-Source material is authoritative. Expansions must feel native 
+A living Mörk Borg wiki and creative expansion project.
+Source material is authoritative. Expansions must feel native
 to the world — bleak, weird, beautiful, doomed.
 
 ## Source Material (Read Only)
@@ -15,6 +15,7 @@ If uncertain whether something fits, err toward darker and stranger.
 ## The Tone
 
 Mörk Borg is:
+
 - A dying world on a countdown to apocalypse
 - Visually dense, typographically chaotic, aesthetically metal
 - Dark but with gallows humor underneath
@@ -22,22 +23,23 @@ Mörk Borg is:
 - Monsters that feel wrong, not just dangerous
 
 Not:
+
 - High fantasy heroism
 - Hopeful
 - Clean or orderly
 - Explained in full
 
-When generating content, write like the world is already ending 
+When generating content, write like the world is already ending
 and the text itself barely survived.
 
 ## Project Structure
 
-/wiki          — canonical lore extracted and organized from source
-/monsters      — new creatures built to spec
-/locations     — expanded regions and places
-/factions      — cults, organizations, powers
-/tables        — random generators for GM use
-/adventures    — scenario seeds and full modules
+/wiki — lore extracted and organized from source
+/monsters — new creatures built to spec
+/locations — expanded regions and places
+/factions — cults, organizations, powers
+/tables — random generators for GM use
+/adventures — scenario seeds and full modules
 
 ## Wiki Build Instructions
 
@@ -50,7 +52,9 @@ When building the wiki from source PDFs:
 5. Flag gaps — things mentioned but not detailed — as expansion opportunities
 
 Format:
+
 # Entry Name
+
 **Type:** [location/creature/faction/item/NPC]
 **Source:** [PDF name, page if known]
 
@@ -63,6 +67,7 @@ Format:
 ## Monster Creation Instructions
 
 New monsters must:
+
 - Have a name that sounds like a curse or a disease
 - Stat block compatible with Mörk Borg system
 - One or two abilities that feel genuinely horrible
@@ -70,10 +75,12 @@ New monsters must:
 - Feel like they belong in the existing bestiary
 
 Format:
-# Monster Name
-*brief evocative descriptor*
 
-HP: X  Morale: X  Speed: X
+# Monster Name
+
+_brief evocative descriptor_
+
+HP: X Morale: X Speed: X
 Attack: [name] +X dmg Xd6 [special]
 
 **Special:** [one horrible thing it does]
@@ -83,6 +90,7 @@ Attack: [name] +X dmg Xd6 [special]
 ## Expanded Lore Instructions
 
 When expanding existing lore:
+
 - Stay consistent with established canon
 - Fill gaps rather than contradict
 - Write in fragments — journal entries, found text, rumors
@@ -102,3 +110,4 @@ Tables should be immediately usable at the table.
 - Flag anything that contradicts source as [CANON CHECK]
 - Keep Mörk Borg voice in all generated content
 - No clean fantasy language
+
