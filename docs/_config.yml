@@ -1,0 +1,18 @@
+title: "MÖRK BORG Wiki"
+description: "A Canonical Wiki of a Dying World"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Collections (none needed — flat pages)
+# GitHub Pages safe mode
+plugins: []
