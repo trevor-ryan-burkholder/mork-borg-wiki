@@ -21,22 +21,23 @@ Obsidian vault with all canonical content extracted and organized from source PD
 
 Sections:
 
-| Folder | Contents |
-|--------|----------|
-| `lore/` | Gods, prophecies, cosmology — HE, SHE, Nechrubel, the Misery Table |
-| `npcs/` | Named characters — Josilfa Migol, the Shadow King, Swamp Witch |
-| `creatures/` | Bestiary entries with stat blocks |
-| `classes/` | Playable character classes |
-| `factions/` | Organizations — the Inquisition, Creton Order, the Drowned |
-| `items/` | Weapons, relics, equipment lists |
-| `locations/` | Named places — Galgenbeck, Bergen Chrypt, Kergüs |
-| `adventures/` | Published scenario notes and seeds |
-| `tables/` | Random tables — Misery, Names, Weather, Unheroic Feats |
+| Folder        | Contents                                                           |
+| ------------- | ------------------------------------------------------------------ |
+| `lore/`       | Gods, prophecies, cosmology — HE, SHE, Nechrubel, the Misery Table |
+| `npcs/`       | Named characters — Josilfa Migol, the Shadow King, Swamp Witch     |
+| `creatures/`  | Bestiary entries with stat blocks                                  |
+| `classes/`    | Playable character classes                                         |
+| `factions/`   | Organizations — the Inquisition, Creton Order, the Drowned         |
+| `items/`      | Weapons, relics, equipment lists                                   |
+| `locations/`  | Named places — Galgenbeck, Bergen Chrypt, Kergüs                   |
+| `adventures/` | Published scenario notes and seeds                                 |
+| `tables/`     | Random tables — Misery, Names, Weather, Unheroic Feats             |
 
 Each entry follows the format defined in `CLAUDE.md`:
 
 ```markdown
 # Entry Name
+
 **Type:** [category]
 **Source:** [PDF, page]
 
@@ -84,6 +85,7 @@ python3 generate_jekyll.py
 ```
 
 The script lives in the Claude outputs directory and handles:
+
 - WikiLink → URL resolution for all ~160 pages
 - Markdown → HTML conversion (paragraphs, headers, lists, bold, italic)
 - Jekyll front matter injection (`layout`, `section`, `slug`)
@@ -113,6 +115,7 @@ Original content built to match the Mörk Borg aesthetic and system. Not in the 
 Official releases used as canon. Do not contradict these. When in doubt, extrapolate darker and stranger.
 
 Key files:
+
 - `MÖRK BORG BARE BONES EDITION.pdf` — Core rules and setting
 - `MB_Rules-reference.pdf` — Quick reference
 - `MÖRK BORG CULT FERETORY_*.pdf` — Cult community content
@@ -122,9 +125,10 @@ Key files:
 
 ## Tone Notes
 
-> *The world ends by prophecy. You are small, wretched, and probably wrong about everything.*
+> _The world ends by prophecy. You are small, wretched, and probably wrong about everything._
 
 When adding content:
+
 - Write like the text barely survived
 - Lore in fragments, not exposition
 - Nothing should be fully explained
@@ -137,5 +141,8 @@ See `CLAUDE.md` for the full content generation guidelines.
 
 ## License
 
-MÖRK BORG is © Ockult Örtmästare Games & Stockholm Kartell.  
-All original wiki text and expansion content in this repository is fan-created and not for commercial use.
+Mörk Borg Wiki is an independent production by Trevor Burkholder and is not affiliated with Ockult Örtmästare Games or Stockholm Kartell. It is published under the <a href="https://morkborg.com/license/" target="_blank">MÖRK BORG Third Party License</a>.
+
+MÖRK BORG is copyright Ockult Örtmästare Games and Stockholm Kartell.
+This is an AI-assisted fan project intended as a GM reference tool, not official content.
+
