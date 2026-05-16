@@ -25,5 +25,5 @@ Artifacts, gear, instruments, Powers, and Tablets.
 
 ## See Also
 - [[Tenebrous Reliquary]] — 66 cursed items (categorized under adventures since it's a Cult publication)
-- [[Blackpowder Weapons]] — firearms (categorized under tables)
+- [[Blackpowder Weapons]] — firearms (categorized under tables) 
 - [[d100 Items and Trinkets]] — random scattered loot (categorized under tables)
