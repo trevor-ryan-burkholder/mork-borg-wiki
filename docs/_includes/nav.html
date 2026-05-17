@@ -65,8 +65,8 @@
     <li><a href="{{ '/npcs/kulvan.html' | relative_url }}"{% if page.slug == 'kulvan' %} class="active"{% endif %}>Kulvan</a></li>
     <li><a href="{{ '/npcs/klopstock.html' | relative_url }}"{% if page.slug == 'klopstock' %} class="active"{% endif %}>Klopstock</a></li>
     <li><a href="{{ '/npcs/urvan-krat.html' | relative_url }}"{% if page.slug == 'urvan-krat' %} class="active"{% endif %}>Urvan Krat</a></li>
-    <li><a href="{{ '/npcs/verhu.html' | relative_url }}"{% if page.slug == 'verhu' and s == 'npcs' %} class="active"{% endif %}>Verhu (NPC)</a></li>
-    <li><a href="{{ '/npcs/nechrubel.html' | relative_url }}"{% if page.slug == 'nechrubel' and s == 'npcs' %} class="active"{% endif %}>Nechrubel (NPC)</a></li>
+    <li><a href="{{ '/npcs/verhu.html' | relative_url }}"{% if s == 'npcs' %}{% if page.slug == 'verhu' %} class="active"{% endif %}{% endif %}>Verhu (NPC)</a></li>
+    <li><a href="{{ '/npcs/nechrubel.html' | relative_url }}"{% if s == 'npcs' %}{% if page.slug == 'nechrubel' %} class="active"{% endif %}{% endif %}>Nechrubel (NPC)</a></li>
     <li class="nav-subheading">Graven-Tosk</li>
     <li><a href="{{ '/npcs/the-undertaker.html' | relative_url }}"{% if page.slug == 'the-undertaker' %} class="active"{% endif %}>The Undertaker</a></li>
     <li><a href="{{ '/npcs/the-deadnt.html' | relative_url }}"{% if page.slug == 'the-deadnt' %} class="active"{% endif %}>The Deadn&#x27;t</a></li>
@@ -223,34 +223,6 @@
     <li><a href="{{ '/locations/cathedral.html' | relative_url }}"{% if page.slug == 'cathedral' %} class="active"{% endif %}>Cathedral of the Two-Headed Basilisks</a></li>
     <li><a href="{{ '/locations/palace-of-the-shadow-king.html' | relative_url }}"{% if page.slug == 'palace-of-the-shadow-king' %} class="active"{% endif %}>Palace of the Shadow King</a></li>
     <li><a href="{{ '/locations/accursed-den.html' | relative_url }}"{% if page.slug == 'accursed-den' %} class="active"{% endif %}>The Accursed Den</a></li>
-    <li><a href="{{ '/locations/devils-tomb.html' | relative_url }}"{% if page.slug == 'devils-tomb' %} class="active"{% endif %}>Devil's Tomb</a></li>
-    <li><a href="{{ '/locations/death-ziggurat.html' | relative_url }}"{% if page.slug == 'death-ziggurat' %} class="active"{% endif %}>Death Ziggurat</a></li>
-    <li><a href="{{ '/locations/sepulchre.html' | relative_url }}"{% if page.slug == 'sepulchre' %} class="active"{% endif %}>Sepulchre of the Swamp Witch</a></li>
-    <li><a href="{{ '/locations/derelict-mill.html' | relative_url }}"{% if page.slug == 'derelict-mill' %} class="active"{% endif %}>Derelict Mill</a></li>
-    <li><a href="{{ '/locations/medickal-shoppe.html' | relative_url }}"{% if page.slug == 'medickal-shoppe' %} class="active"{% endif %}>Medickal Shoppe</a></li>
-  </ul>
-</div>
-
-<div class="nav-section">
-  <span class="nav-section-title">Tables</span>
-  <ul>
-    <li><a href="{{ '/tables/' | relative_url }}" class="section-link{% if s == 'tables' %} active{% endif %}">All Tables</a></li>
-    <li><a href="{{ '/tables/names.html' | relative_url }}"{% if page.slug == 'names' %} class="active"{% endif %}>Names</a></li>
-    <li><a href="{{ '/tables/weather.html' | relative_url }}"{% if page.slug == 'weather' %} class="active"{% endif %}>Weather</a></li>
-    <li><a href="{{ '/tables/reaction-and-morale.html' | relative_url }}"{% if page.slug == 'reaction-and-morale' %} class="active"{% endif %}>Reaction &amp; Morale</a></li>
-    <li><a href="{{ '/tables/terrible-traits.html' | relative_url }}"{% if page.slug == 'terrible-traits' %} class="active"{% endif %}>Terrible Traits</a></li>
-    <li><a href="{{ '/tables/traps.html' | relative_url }}"{% if page.slug == 'traps' %} class="active"{% endif %}>Traps</a></li>
-    <li><a href="{{ '/tables/contents-of-pockets.html' | relative_url }}"{% if page.slug == 'contents-of-pockets' %} class="active"{% endif %}>Contents of Pockets</a></li>
-    <li><a href="{{ '/tables/the-basilisks-demand.html' | relative_url }}"{% if page.slug == 'the-basilisks-demand' %} class="active"{% endif %}>The Basilisks Demand</a></li>
-    <li><a href="{{ '/tables/adventure-seeds.html' | relative_url }}"{% if page.slug == 'adventure-seeds' %} class="active"{% endif %}>Adventure Seeds</a></li>
-    <li><a href="{{ '/tables/bedeviled-dungeons.html' | relative_url }}"{% if page.slug == 'bedeviled-dungeons' %} class="active"{% endif %}>Bedeviled Dungeons</a></li>
-    <li><a href="{{ '/tables/d100-items-and-trinkets.html' | relative_url }}"{% if page.slug == 'd100-items-and-trinkets' %} class="active"{% endif %}>d100 Items &amp; Trinkets</a></li>
-    <li><a href="{{ '/tables/blackpowder-weapons.html' | relative_url }}"{% if page.slug == 'blackpowder-weapons' %} class="active"{% endif %}>Blackpowder Weapons</a></li>
-    <li><a href="{{ '/tables/overland-travel.html' | relative_url }}"{% if page.slug == 'overland-travel' %} class="active"{% endif %}>Overland Travel</a></li>
-    <li><a href="{{ '/tables/unheroic-feats.html' | relative_url }}"{% if page.slug == 'unheroic-feats' %} class="active"{% endif %}>Unheroic Feats</a></li>
-  </ul>
-</div>
-} class="active"{% endif %}>The Accursed Den</a></li>
     <li><a href="{{ '/locations/devils-tomb.html' | relative_url }}"{% if page.slug == 'devils-tomb' %} class="active"{% endif %}>Devil's Tomb</a></li>
     <li><a href="{{ '/locations/death-ziggurat.html' | relative_url }}"{% if page.slug == 'death-ziggurat' %} class="active"{% endif %}>Death Ziggurat</a></li>
     <li><a href="{{ '/locations/sepulchre.html' | relative_url }}"{% if page.slug == 'sepulchre' %} class="active"{% endif %}>Sepulchre of the Swamp Witch</a></li>
