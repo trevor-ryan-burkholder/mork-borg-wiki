@@ -1,6 +1,57 @@
 # Equipment & Prices
 **Type:** mechanic / shopping list
-**Source:** MÖRK BORG Bare Bones Edition, p.24–26
+**Source:** MÖRK BORG Bare Bones Edition, p.21–26
+
+## Starting Equipment
+
+A PC begins with 2d6 × 10 silver, a waterskin, and d4 days of food. The rest is rolled. From p.21–22:
+
+### Carrier (d6)
+1–2. Nothing.
+3. Backpack (holds 7 normal-sized items).
+4. Sack (holds 10 normal-sized items).
+5. Small wagon, or one item from the d12 tables below.
+6. Donkey — not bad. Or one of the above.
+
+### Starting Items, First Roll (d12)
+1. Rope, 30 feet.
+2. Presence + 4 torches.
+3. Lantern with oil for Presence + 6 hours.
+4. Magnesium strip.
+5. A random unclean scroll. (See [[Powers]].)
+6. Sharp needle.
+7. Medicine chest (Presence + 4 uses; stops bleeding/infection and heals d6 hp).
+8. Metal file and lockpicks.
+9. Bear trap (Presence DR14 to spot, d8 damage).
+10. Bomb — sealed bottle, d10 damage.
+11. A bottle of red poison, d4 doses (Toughness DR12 or d10 damage).
+12. Silver crucifix.
+
+### Starting Items, Second Roll (d12)
+1. Life elixir, d4 doses (heals d6 hp and removes infection).
+2. A random sacred scroll. (See [[Powers]].)
+3. Small but vicious dog (d6+2 hp, bite d4; obeys only you).
+4. d4 monkeys that ignore but love you (d4+2 hp, punch/bite d4).
+5. Exquisite perfume worth 25s.
+6. Toolbox: 10 nails, tongs, hammer, small saw, drill.
+7. Heavy chain, 15 feet.
+8. Grappling hook.
+9. Shield (−1 damage, or break the shield to ignore one attack entirely).
+10. Crowbar (d4 damage).
+11. Lard (may function as 5 meals in a pinch).
+12. Tent.
+
+### Starting Armor (d4) — *p.22*
+*Roll d2 instead if you began with a scroll. Scrolls will never work in zweihand weapons or medium/heavy armor.*
+
+| d4 | Armor | Damage Reduction | Notes | Cost |
+|---|---|---|---|---|
+| 1 | No armor (tier 0) | — | — | — |
+| 2 | Light (fur, padded cloth, leather) — tier 1 | −d2 | — | 20s |
+| 3 | Medium (scale, mail) — tier 2 | −d4 | DR +2 on Agility tests, including defence | 100s |
+| 4 | Heavy (splint, plate) — tier 3 | −d6 | DR +4 on Agility tests; defence at DR +2 | 200s |
+
+A **shield** (20s) gives −1 damage on every attack. Or, break it to ignore one whole attack.
 
 ## Equipment
 

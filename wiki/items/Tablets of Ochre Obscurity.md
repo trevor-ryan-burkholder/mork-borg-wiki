@@ -17,6 +17,6 @@ Made from the clay of the [[Valley of the Unfortunate Undead]], these Ochre Tabl
 9. **Meta-Alchemy.** Transform a container of liquid one of three ways: into two doses of Red or Black Poison; into **The Loathing of Vulark** (imbiber rolls Toughness DC16 or jumps from great heights); or transform poison into water or wine.
 10. **Memetic Cognitive Palpitation.** Near-imperceptible body shifts transmit a simple mind-plague which causes one creature to dance madly for d4 rounds (choreomania) — they may neither attack nor defend.
 
-**Connections:** [[Valley of the Unfortunate Undead]], [[Forlorn Philosopher]], [[Powers]], [[The Loathing of Vulark]]
+**Connections:** [[Forgotten Mind-Cult]], [[Valley of the Unfortunate Undead]], [[Forlorn Philosopher]], [[Powers]], [[The Loathing of Vulark]]
 
-**Gaps/Expansion Notes:** The "forgotten mind-cult" who made the Tablets is named only as forgotten. Vulark — origin of the named "Loathing" — is otherwise unknown. Whether the clay of the Valley produces other artifacts beyond the Tablets is open.
+**Gaps/Expansion Notes:** The [[Forgotten Mind-Cult]] who made the Tablets is named only as forgotten — see lore entry. Vulark — origin of the named "Loathing" — is otherwise unknown. Whether the clay of the Valley produces other artifacts beyond the Tablets is open.

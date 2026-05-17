@@ -11,6 +11,12 @@ HP 20, Morale 9, No armour, Cutlery d4 + Engulf
 - **Engulf.** On hit, DR10 Strength or be partially swallowed for d6 chewing damage.
 - **Flatulence.** When Silas takes damage he loses control of his body. All in the room test Toughness DR14 or gag for d3 rounds, increasing all tests by +2 DR (cumulative).
 
-**Connections:** [[Bloat]], [[Gourmand's Cutlery]], [[Fleshy Automaton]], [[Goddess of Fat and Plenty]]
+## The Tongue-Knife in the Sewage Pit
 
-**Gaps/Expansion Notes:** Whether killing Silas frees the Cutlery's compulsion is open. Whether the Fleshy Automatons disperse, or simply seek a new Fattened King, is GM-decision.
+*"The only thing Silas can't digest is metal."* Beneath the sludge of his chamber lie d6 silver and a long, curved knife shaped like a tongue.
+
+**[[Tongue-shaped Knife]]** — d6 damage. On a hit, the target becomes ravenously hungry and desperately thirsty. They **must eat and drink within the hour or die.** A relic of the [[Goddess of Fat and Plenty]] cult, swallowed and forgotten, waiting in his filth for the next mouth.
+
+**Connections:** [[Bloat]], [[Gourmand's Cutlery]], [[Tongue-shaped Knife]], [[Fleshy Automaton]], [[Goddess of Fat and Plenty]]
+
+**Gaps/Expansion Notes:** Whether killing Silas frees the Cutlery's compulsion is open. Whether the Fleshy Automatons disperse, or simply seek a new Fattened King, is GM-decision. The tongue-knife's compulsion mirrors the Cutlery's — it may have been cult issue from the same chapel, predating Silas.

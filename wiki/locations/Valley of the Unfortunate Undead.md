@@ -12,6 +12,17 @@ The child-thief [[Tergol]] is named in the same passage as the Valley, his "vile
 
 The [[Heretical Priest]] (origin 4) hides in temple ruins here. The [[Forlorn Philosopher]] (origin 6) may have been educated by the damned among the Valley's mud pits. The clay of the Valley is what the [[Tablets of Ochre Obscurity]] are made from.
 
-**Connections:** [[HE]], [[Verhu]], [[Gorgh]], [[Tergol]], [[Tablets of Ochre Obscurity]], [[Heretical Priest]], [[Forlorn Philosopher]], [[The Dying World]]
+## Regional Fauna (Eat-Prey-Kill, p.11)
+
+The undead-warm soil breeds its own corruption:
+
+- [[Phantom Rats]] (d10) — half-in-this-world, glowing sickly blue.
+- [[Grubstoppers]] (d10) — any bug big enough to fill a hungry stomach.
+- [[Tomb Ape]] — frog-footed, snake-scaled, silver-greedy.
+- [[Gravelings]] (d6) — skinless dogs with thumbs.
+- [[Marrow Sparrow]] — drinks marrow from the sleeping.
+- [[Bonemare]] — fleshless horse, first-turn unclean scroll.
+
+**Connections:** [[HE]], [[Verhu]], [[Gorgh]], [[Tergol]], [[Tablets of Ochre Obscurity]], [[Heretical Priest]], [[Forlorn Philosopher]], [[The Dying World]], [[Phantom Rats]], [[Grubstoppers]], [[Tomb Ape]], [[Gravelings]], [[Marrow Sparrow]], [[Bonemare]]
 
 **Gaps/Expansion Notes:** The exact geography (one valley? many crypts? a city of tombs?) is unmapped. The suicide cults, the dragging black soil, and the "Realm of the Dead" entry-point are all atmospheric without specifics. Tergol's lair, alchemy, and the children he takes are unwritten. The Valley deserves a full crypt-crawl module.

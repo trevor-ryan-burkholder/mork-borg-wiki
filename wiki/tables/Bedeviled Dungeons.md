@@ -20,7 +20,7 @@ Draw or find a map. Around 10 rooms is enough for one night's session.
 | 11 | Torture | house |
 | 12 | Slave | waste |
 
-## Status
+## Status (d6)
 1–2 Still active.
 3–6 Inactive, because (d4):
 1. The place was invaded.
@@ -28,9 +28,17 @@ Draw or find a map. Around 10 rooms is enough for one night's session.
 3. It was no longer needed.
 4. A Misery was fulfilled — roll on the [[Misery Table]] (p. 10).
 
-## In what state? (d10) — *(partial in plaintext)*
+## Imminent Danger (d10) — *what state is it in?*
+1. Is slowly flooding with (d4): 1–2 oil / 3–4 water.
+2. Berserkers are appearing.
 3. Is about to collapse.
-*(rows 1, 2, 4–10 blank in plaintext source)*
+4. Senses are being distorted.
+5. Underworld emissions of poisonous spores.
+6. A hunted cult intends it to be their new hideout.
+7. A terrible, dormant curse about to be unleashed.
+8. Fire is spreading from the deepest chamber.
+9. The gate will shut and seal, and not open again until seven days have passed.
+10. A lethal mechanism is about to activate.
 
 ## Who lives there? (d12)
 1. Animated suits of armor battling goblins.
@@ -46,15 +54,24 @@ Draw or find a map. Around 10 rooms is enough for one night's session.
 11. Disease spreading ochre-beetles.
 12. Dissident courtiers dedicated to the occult.
 
-## What did they leave? (d12) — *(partial in plaintext)*
+## Distinctive Feature (d12) — *what did they leave?*
+1. Portal to the land of the dead, soon ready.
+2. Lab where corpses are assembled into golems.
+3. Black prism which twists all Powers.
 4. 300 emaciated, mutilated prisoners.
+5. Blind hermit, firmly rooted in the ground, spreading his vile corruption.
+6. Bony remains of the [[Basilisks|Basilisk]]'s spawn.
 7. Obelisk that separates body and soul.
-*(rows 1, 2, 3, 5, 6, 8, 9, 10, 11, 12 blank in plaintext source)*
+8. Rooms move around the dungeon's centre.
+9. High ceilings, whispers in the upper dark.
+10. Artwork affecting the surroundings.
+11. Ensnaring, intelligent plants.
+12. Giant pools of boiling tar.
 
 ## Room details (d4 × d6) — *(partial in plaintext)*
 
 ### d4=1
-1. **Inscriptions, the motifs are (d6):** Vomit-inducing / Terrifying / Hypnotic / Childish / Teleportation causing / *(blank)*
+1. **Inscriptions, the motifs are (d6):** Vomit-inducing / Terrifying / Hypnotic / Childish / Teleportation causing / Ugly and pointless
 2. Bloodied beds
 3. Flooded
 4. Leaning
@@ -85,6 +102,6 @@ Draw or find a map. Around 10 rooms is enough for one night's session.
 5. Smoke-filled
 6. Bonfire in the center
 
-**Connections:** [[Tergol]], [[Wickhead]], [[Lady Porcelain]], [[Nechrubel]], [[Misery Table]]
+**Connections:** [[Tergol]], [[Wickhead]], [[Lady Porcelain]], [[Nechrubel]], [[Misery Table]], [[Basilisks]]
 
-**Gaps/Expansion Notes:** "Bark-Witch and her root-children" (8), "four-legged pale gremlins" (9), and the "obelisk that separates body and soul" (Left Behind 7) are vivid, named-once-and-never-again ideas — perfect seeds.
+**Gaps/Expansion Notes:** "Bark-Witch and her root-children" (Who 8), "four-legged pale gremlins" (Who 9), the blind rooted hermit (Feature 5), the corpse-golem lab (Feature 2), the obelisk that separates body and soul (Feature 7), and the rooms-that-move dungeon (Feature 8) are vivid, named-once-and-never-again ideas — perfect seeds for expansion modules.

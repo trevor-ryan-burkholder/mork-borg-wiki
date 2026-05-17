@@ -29,16 +29,37 @@ The [[Tablets of Ochre Obscurity]] are a separate category — clay tablets beha
 - **Deathlike Silence** (Death Ziggurat) — wielded by high-rank death-obsessed cultists. Presence DR14 or deafened d10 minutes.
 - **Beechwood Tube Protean Power** (Rotblack Sludge) — sold by [[Sagsobuth]]; a different unclean Power each dawn, single-use, misinterpreted on 1–3.
 
-## Bare Bones unclean Powers (partial in plaintext source)
-The Bare Bones unclean scrolls table includes one fully written entry:
-- **8:** 1–3 d4 skeletons / 4–6 d4 zombies. (Conjuration.)
+## Unclean Scrolls (d10) — *Bare Bones p.34*
 
-Other entries in source plaintext are blank.
+| d10 | Name | Effect |
+|---|---|---|
+| 1 | **Palms Open the Southern Gate** | A ball of fire strikes d2 creatures; d8 damage each. |
+| 2 | **Tongue of Eris** | One creature of your choice is confused for 10 minutes. |
+| 3 | **Te-le-kin-esis** | Move an object up to d10×10 feet for d6 minutes. |
+| 4 | **Lucy-Fire's Levitation** | Hover for Presence + d10 rounds. |
+| 5 | **Daemon of Capillaries** | One creature chokes for d6 rounds, d4 hp per round. *Wielded by [[Fletcher]].* |
+| 6 | **Nine Violet Signs Unknot the Storm** | d2 lightning bolts, d6 damage each. *Wielded by [[Fletcher]] and [[Srolki & Yaoxl]].* |
+| 7 | **Metzhuotl Blind Your Eye** | One creature is invisible d6 rounds, or until damaged. Attack/defend at DR6. *Known to [[Srolki & Yaoxl]].* |
+| 8 | **Foul Psychompomp** | Summon (d6): 1–3 d4 skeletons / 4–6 d4 zombies. |
+| 9 | **Eyelid Blinds the Mind** | d4 creatures fall asleep for one hour unless they pass a DR14 test. |
+| 10 | **Death** | All creatures within 30 feet lose a total of 4d10 hp, divided as the caster wishes. |
 
-## Sacred Powers (partial in plaintext source)
-- **1:** "G[...]" — only the first letter survives in the plaintext.
+## Sacred Scrolls (d10) — *Bare Bones p.35*
 
-**Arcane Catastrophes** (Bare Bones p.43–45) describe what happens on a fumble while wielding Powers — most entries blank in plaintext. One readable entry, **Cube-Violet**, describes four trials inside a perfect empty cube: slay riddling [[Kulvan]] who holds three colorless pearls; poison a close friend with [[Sict-Shroom]]; reach up through fire to a golden key (d4 fingers burn to ash); wait in maddening timeless silence until another fool arrives.
+| d10 | Name | Effect |
+|---|---|---|
+| 1 | **Grace of a Dead Saint** | d2 creatures regain d10 hp each. |
+| 2 | **Grace for a Sinner** | One creature gains +d6 on a single roll (damage, test, etc.). |
+| 3 | **Whispers Pass the Gate** | Ask three questions of a deceased creature. |
+| 4 | **Aegis of Sorrow** | One creature gains 2d6 extra hp for 10 rounds. |
+| 5 | **Unmet Fate** | One creature, dead no longer than a week, wakes with terrible memories. |
+| 6 | **Bestial Speech** | You may speak with animals for d20 minutes. |
+| 7 | **False Dawn / Night's Chariot** | Light or pitch black for 3d10 minutes. |
+| 8 | **Hermetic Step** | You see every trap in your path for 2d10 minutes. |
+| 9 | **Roskoe's Consuming Glare** | d4 creatures lose d8 hp each. *Known to [[Srolki & Yaoxl]].* |
+| 10 | **Enochian Syntax** | One creature blindly obeys a single command. |
+
+**Arcane Catastrophes** (Bare Bones p.43–45) describe what happens on a fumble while wielding Powers — a d20 table of nightmare bargains and impossible errands. Most entries are lost to the typographic spread; only entry 19, **[[Cube-Violet]]**, is recoverable in extraction. It describes four trials inside a perfect empty cube: slay riddling [[Kulvan]] who holds three colourless pearls; poison a close friend with [[Sict-Shroom]]; reach up through fire to a golden key (d4 fingers burn to ash); wait in maddening timeless silence until another fool arrives. The remaining 19 entries are a [CANON CHECK] gap.
 
 **Connections:** [[Tablets of Ochre Obscurity]], [[Forlorn Philosopher]], [[Fletcher]], [[Srolki & Yaoxl]], [[Srolki & Yaoxl]], [[Sagsobuth]], [[Death-Obsessed Cultists]], [[Kulvan]], [[Sict-Shroom]], [[Cube-Violet]]
 

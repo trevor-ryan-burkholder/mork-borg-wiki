@@ -10,6 +10,8 @@ At Misery **2:6** *"SHE shall see HIM grow stronger. And SHE reveals herself and
 
 She also bedded a demonic being from a parallel world of undeath, conceiving [[Akünh]] — see [[Death Ziggurat]].
 
-**Connections:** [[Lusi]], [[Arkh]], [[HE]], [[Verhu]], [[Gorgh]], [[Bergen Chrypt]], [[Two-Headed Basilisks]], [[Calendar of Nechrubel]], [[Akünh]], [[Dead God's Prophet]] (their god was slain by SHE within Bergen Chrypt)
+She is also the slayer of the [[Dead Gods]] — ten named entities she killed within the Bergen Chrypt, leaving their prophets to wander mad with rotted gospel.
+
+**Connections:** [[Lusi]], [[Arkh]], [[HE]], [[Verhu]], [[Gorgh]], [[Bergen Chrypt]], [[Two-Headed Basilisks]], [[Calendar of Nechrubel]], [[Akünh]], [[Dead Gods]], [[Dead God's Prophet]]
 
 **Gaps/Expansion Notes:** Almost no one has seen her — she is by design a rumor. The "twin paths" of Lusi and Arkh that "many walk" suggest a heretical or pre-Verhu faith somewhere underground. Other surviving spawn besides HE and Akünh are alluded to but undocumented. Her actual physical form when she reveals herself at 2:6 is undescribed.

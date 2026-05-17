@@ -26,6 +26,8 @@ The cosmology, the prophecies, the gods, the long countdown.
 - [[Death Realm]] — the parallel world that birthed Akünh
 - [[The Dark Spider]] — Harbinger of the End
 - [[Goddess of Fat and Plenty]] — the unnamed bacchanalian goddess
+- [[Dead Gods]] — the ten slain by SHE within Bergen Chrypt
+- [[Forgotten Mind-Cult]] — older than the basilisks; the makers of the Ochre Tablets
 
 ## Special Places-Outside-Places
 - [[Cube-Violet]] — the empty perfect cube

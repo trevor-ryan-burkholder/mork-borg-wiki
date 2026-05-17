@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Undead (Death Ziggurat)"
+canonical_home: "creatures"
+audit_decision: |
+  Akünh has a full canonical stat block in The Death Ziggurat (HP 20, Morale 11,
+  Death scream, Claws and devouring, Dark rays, Separated heart, Teleport) and
+  appears in source primarily as a creature the PCs fight. The audit
+  (audits/audit_npcs.md) flagged a missing NPC entry, but creating one would
+  duplicate the stat block and the entity-as-actor content already present here.
+  Decision: keep the single canonical entry under wiki/creatures/. The
+  wiki/npcs/README.md entry redirects here rather than creating a stub NPC page.
+  This mirrors how Sarku (her former advisor, no stat block as a creature) is
+  filed under npcs/, while Akünh — definitively statted — stays in creatures/.
 ---
 # Dread Akünh, Demon Spawn
 *the five-eyed daughter of SHE and the Death Realm*

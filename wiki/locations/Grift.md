@@ -12,6 +12,17 @@ The [[Inquisition]] of the [[Two-Headed Basilisks]] is not too keen on the heret
 
 The crypts of Grift hide [[Heretical Priest]]s (origin 3). A [[Forlorn Philosopher]] (origin 1) may have been raised by fanatical Theists in a temple beneath Grift's bridges. The [[Pale One]] (origin 6) may have crawled out of a crack in the ground not far from Grift. The [[Sacrilegious Songbird]] (origin 1) may have struck their devil's bargain in an outhouse just outside Grift. The Merchant carries "Grift" goods: Little Poppet, Key Retrieved from the Múr, Chip the Rat, Sorrowful Music Box, Hangman's Rope, Giant's Chisel.
 
-**Connections:** [[Endless Sea]], [[Múr]], [[Terion]], [[Sigfúm the Kind]], [[Verhu]], [[Inquisition]], [[Two-Headed Basilisks]], [[Crëlut]], [[Heretical Priest]], [[Forlorn Philosopher]], [[Pale One]], [[Sacrilegious Songbird]]
+## Regional Fauna (Eat-Prey-Kill, p.7)
+
+What crawls from Grift's dried, cracked earth:
+
+- [[Uncommon Rats]] (d4) — *"large like hounds but with twice the spite and thrice the teeth."*
+- [[Cellar Crabs]] (d4) — 20-inch legs clicking on stone.
+- [[Nameless & Tameless Strays]] (d8) — masterless, nameless, fearless.
+- [[Straw-lion]] — hides in hay, eats the brain.
+- [[Lentil Lice]] (with d6 starved peasants) — wait for the host to die.
+- [[Múrder Gulls]] (d20) — nesting in the Múr's banks.
+
+**Connections:** [[Endless Sea]], [[Múr]], [[Terion]], [[Sigfúm the Kind]], [[Verhu]], [[Inquisition]], [[Two-Headed Basilisks]], [[Crëlut]], [[Heretical Priest]], [[Forlorn Philosopher]], [[Pale One]], [[Sacrilegious Songbird]], [[Uncommon Rats]], [[Cellar Crabs]], [[Nameless & Tameless Strays]], [[Straw-lion]], [[Lentil Lice]], [[Múrder Gulls]]
 
 **Gaps/Expansion Notes:** "Enormous cave system near Grift" (adventure seed 31–32) is wide open. The three bridges have no individual names. The cult of Theists beneath the bridges (Forlorn Philosopher origin 1) is undescribed beyond their existence. Klopstock — a family with at least one surviving member in [[Schleswig]] — has roots in Grift's region (their ring shows up at the [[Sepulchre of the Swamp Witch]]).

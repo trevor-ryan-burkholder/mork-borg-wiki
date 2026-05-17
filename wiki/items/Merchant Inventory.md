@@ -39,7 +39,7 @@ aliases:
 5. **[[Wickhead Brain]]** — rubbed, emits torchlight. Extremely fragile; if broken everyone must succeed a DR12 Toughness test or be blinded for one round.
 6. **[[Galgenbeck Deathmask]]** — stolen from an esteemed priest's sarcophagus. Placed on a corpse, allows you to see how it died. Considered heretical theft if caught with it.
 
-## [[Western Kingdom]] Wares
+## [[Wästland]] Wares
 1. **[[Pouch of Valley Vapors]]** — strange ashy vapors not made for living lungs. Breathing them replenishes all HP and cures infection but leaves you catatonic for d4 hours.
 2. **[[Jar of Troll Piss]]** — when spilled on the ground, ensures no beast dare approach. Allows safe camp. Might attract a territorial [[Troll]].
 3. **[[Fine but Gaudy Clothing]]** — allows you to pass as nobility, or as a moderately ranked official with a DR10 Presence test. Mercilessly mocked by common folk and outcasts; bandits will always attack on sight.
@@ -63,6 +63,6 @@ aliases:
 5. **[[Hangman's Rope]]** — a 30ft length. Fuses permanently to whatever it is tied to. Immune to all force, cannot be undone, cannot be severed.
 6. **[[Giant's Chisel]]** — d4 damage, sized like a shortsword. Instead of attacking, attempt to dislodge enemy armor with DR14 Strength; success lowers their armor by one tier.
 
-**Connections:** [[Mikhael the Merchant]], [[Tveland]], [[Western Kingdom]], [[Kergüs]], [[Grift]], [[Powers]]
+**Connections:** [[Mikhael the Merchant]], [[Tveland]], [[Wästland]], [[Kergüs]], [[Grift]], [[Powers]]
 
 **Gaps/Expansion Notes:** Wares from other regions ([[Sarkash]], [[Bergen Chrypt]], [[Alliáns]], [[Endless Sea]], [[Valley of the Unfortunate Undead]]) are conspicuously absent — Mikhael does not visit them, or his inventory there is unwritten. Expansion seed.

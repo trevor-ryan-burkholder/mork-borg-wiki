@@ -32,17 +32,17 @@ HP 10, Morale 7, No armor, Knife d4.
 *as if fallen from the stars. Destructive and detached.*
 HP 5, Morale 8, No armor, unarmed d2.
 **Traits (d4):** Bitter / Incoherent / Mute / Self-harming behaviour.
-**Specialty (d4):** Create d2 doses of a random decoction / Create d2 doses [[Elixir Vitalis]] (heals d6 hp, stops infection) / [unwritten] / [unwritten].
-**Values (d6):** [some unwritten] / Cleanliness / [unwritten] / [unwritten] / Wine / [unwritten].
+**Specialty (d4), once per day:** Create d2 doses of a random decoction / Create d2 doses [[Elixir Vitalis]] (heals d6 hp, stops infection) / Use one random unclean Power / Use one random sacred Power.
+**Values (d6):** Not having to use their speciality all the time / Cleanliness / Listening to melancholic melodies / A couple of hours alone in darkness / Wine / Obscure rituals with the group.
 (See also the [[Pale One]] class.)
 
 ## 4. Prowler
 *lawless good-for-nothing crooks banished from civilization.*
 HP 8, Morale 8, Leather −d2, Knife/Femur d4 (occasionally filthy shortsword d4+1).
 **Traits (d4):** Lazy / Bragging / Liar / Traitor.
-**Specialty (d4):** [unwritten].
-**Values (d6):** [unwritten] / Food / Gossip / Liquor / Pointless death / [unwritten].
+**Specialty (d4), dr8:** Disarm traps (you need to find them first) / Steal single items / Climb impossible routes alone / Finds trails and corners that keep the group hidden.
+**Values (d6):** Payment in silver / Food / Gossip / Liquor / Pointless death / Getting the credit for exploits.
 
-**Connections:** [[Wickhead]], [[Pale One]] (class), [[Elixir Vitalis]], [[Occult Herbmaster]] (decoctions)
+**Connections:** [[Wickhead]], [[Pale One]] (class), [[Elixir Vitalis]], [[Occult Herbmaster]] (decoctions), [[Powers]]
 
-**Gaps/Expansion Notes:** Several rows in source are blank/garbled in the plaintext edition (Specialty 3–4 and Values 1, 3–6 for Pale One; Specialty 1–4 and Values 1, 6 for Prowler). Treat as canonical gaps to fill at the table.
+**Gaps/Expansion Notes:** Source rows recovered via pdfplumber — earlier plaintext extraction misread the table cells as blank. All four Outcasts now have full canonical Specialty and Values tables.

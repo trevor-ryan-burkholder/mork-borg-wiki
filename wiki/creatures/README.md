@@ -36,6 +36,36 @@ The bestiary of the dying world. All canonical creatures and named monsters from
 - [[Fleshy Automaton]] — ceramic bile-golems serving Silas
 - [[Silas the Fattened King]] (also under NPCs)
 
+## Eat-Prey-Kill Regional Bestiary
+
+The hunting-and-cooking booklet provides region-keyed fauna with full stat blocks. Grouped by region:
+
+**Tveland** (p.4): [[Antideer]] · [[Flayed Vultures]] · [[Ratbit]] · [[Feral Horses]] · [[Steppe Wolfe]] · [[Tusked Bison]]
+
+**Sarkash** (p.5): [[Skelelk]] · [[Dredgehog]] · [[Carrion Owls]] · [[Throat-cutting Warbler]] · [[Mulch-squirrels]] · [[Howler Bear]]
+
+**Graven-Tosk** (p.6): [[Giant Skull Moth]] · [[Twice-grown Corpse Fly]] · [[Unbred Mutt|Unbred Mutts]] · [[Grim-toothed Squirrel]] · [[Meatroach]] · [[Half-billed Raven]]
+
+**Grift** (p.7): [[Uncommon Rats]] · [[Cellar Crabs]] · [[Nameless & Tameless Strays]] · [[Straw-lion]] · [[Lentil Lice]] · [[Múrder Gulls]]
+
+**Kergüs** (p.8): [[Flail-horned Muskox]] · [[Tar-pelted Goats]] · [[Molar Bear]] · [[Megasloth]] · [[Blubber Gulls]] · [[False Seal]]
+
+**Wästland** (p.9): [[Liar-bird]] · [[Three-thirds-pheasant]] · [[Feather Fox]] · [[Bautaboar]] · [[Schleswig Bog-feeder]] · [[Gold-crested Filth-crow]]
+
+**Lake Onda** (p.10): [[Cursed Trout]] · [[Rusty Bass]] · [[The Groan]] · [[Carcasswan]] · [[Unresting Duck]] · [[Sursturgeon]]
+
+**Valley of the Unfortunate Undead** (p.11): [[Phantom Rats]] · [[Grubstoppers]] · [[Tomb Ape]] · [[Gravelings]] · [[Marrow Sparrow]] · [[Bonemare]]
+
+**Bergen Chrypt** (pp.12–13): [[Tunnel Sneak]] · [[Nephalix Monkeys]] · [[Weakwill'd Whisperbird]] · [[Vierwinged Falchon]] · [[Überwolf]] · [[Ragpie]]
+
+Plus the parasites of the belly-table (p.2): [[Long & Angry Flesh Worm]].
+
+## Graves Left Wanting Bestiary
+- [[Hungry Zombie]] — Graven-Tosk variant
+- [[Twice-grown Corpse Fly]] — also EPK Graven-Tosk
+- [[Unbred Mutt|Unbred Mutts]] — also EPK Graven-Tosk
+- [[Half-billed Raven]] — also EPK Graven-Tosk
+- [[Übertaker]] — boss of Graves Left Wanting (NOT the Bergen Chrypt Überwolf)
+
 ## See Also
-- [[Eat-Prey-Kill]] — a regional bestiary of dozens of named animals (Antideer, Howler Bear, Skelelk, Meatroach, etc.) not yet given individual entries
 - [[Tenebrous Reliquary]] — items, not creatures, but several invoke creatures (Voodoo Fire, Veil of Blood)
