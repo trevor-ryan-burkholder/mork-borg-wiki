@@ -1,3 +1,8 @@
+---
+aliases:
+  - "The Miseries"
+  - "Miseries"
+---
 # Calendar of Nechrubel
 **Type:** lore / cosmology
 **Source:** MÖRK BORG Bare Bones Edition, p.17–20

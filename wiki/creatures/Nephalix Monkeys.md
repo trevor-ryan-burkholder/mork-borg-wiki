@@ -1,3 +1,7 @@
+---
+aliases:
+  - "Nephalix"
+---
 # Nephalix Monkeys
 *the abyss grew tired of them and spat them back out*
 

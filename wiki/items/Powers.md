@@ -7,6 +7,8 @@ aliases:
   - "Metzhuotl Blind Your Eye"
   - "Roskoe's Consuming Glare"
   - "The Loathing of Vulark"
+  - "Unclean Scrolls"
+  - "Sacred Scrolls"
 ---
 # Powers (named Scrolls and Tablets)
 **Type:** mechanic / lore catalog

@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Undead"
+  - "the Undead"
+---
 # Zombie (Nodh)
 *the slow plague carriers*
 

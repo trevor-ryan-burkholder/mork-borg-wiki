@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Realm of the Dead"
+  - "the Realm of the Dead"
+---
 # Death Realm
 **Type:** parallel world / afterlife
 **Source:** The Death Ziggurat, p.2, 6

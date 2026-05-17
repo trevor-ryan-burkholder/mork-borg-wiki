@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Basilisks"
+  - "the Basilisks"
+---
 # Two-Headed Basilisks
 **Type:** lore / faction / pantheon
 **Source:** MÖRK BORG Bare Bones Edition, p.10–12
