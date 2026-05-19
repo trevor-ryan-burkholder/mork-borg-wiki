@@ -14,7 +14,7 @@ The Eyes of the [[Icon of St Largoth]] have been stolen and brought here. Lookin
 
 The tomb contains:
 - A [[Madman]] crawling at the entrance, mad with spore-fever
-- The Pit to Hell, a bottlessless chasm with a narrow bridge across to a chained bronze door reading **GO TO NECH** in blood
+- The Pit to Hell, a bottomless chasm with a narrow bridge across to a chained bronze door reading **GO TO NECH** in blood
 - Goblins squabbling over a sharp two-handed sword in a side chamber
 - Belpheduk in her traitor's den, hungry and spiteful
 - The Drowned's lair, altar, and hoard

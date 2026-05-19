@@ -25,7 +25,7 @@ import yaml
 # Configuration
 # ---------------------------------------------------------------------------
 
-ROOT = Path("/sessions/wizardly-vibrant-thompson/mnt/Mork Borg")
+ROOT = Path(__file__).resolve().parent
 WIKI = ROOT / "wiki"
 DOCS = ROOT / "docs"
 
