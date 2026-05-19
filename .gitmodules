@@ -1,0 +1,3 @@
+[submodule "module-runner"]
+	path = module-runner
+	url = https://github.com/trevor-ryan-burkholder/borg-module-runner.git
