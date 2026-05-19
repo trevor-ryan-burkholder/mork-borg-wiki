@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "16abc59bc770dc11",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf25d8b0c53f25a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2fd18b423b68af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/items/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19e197c62a8b3551",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e7ae338c542a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "553d62727860b7a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "381fd4d191cdf4ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1077a7ecae034574",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74ba77e598d18b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "882b13a1218eaefd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08c03af9a53ba60d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/items/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "fd93c3c981d917f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/items/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "467f825d25f3bfb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8922301ed9ac255",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d916f1383bfab994",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/items/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "553d62727860b7a1",
+  "lastOpenFiles": [
+    "README.md",
+    "README.md.tmp.31216.892214147aa5",
+    "source/MÖRK BORG ROTBLACK SLUDGE.pdf",
+    "source/MÖRK BORG Forlorn Philosopher.pdf",
+    "source/MÖRK BORG CULT FERETORY_The Tablets of Ochre Obscurity.pdf",
+    "source/MÖRK BORG BARE BONES EDITION.pdf",
+    "source/MB_Rules-reference.pdf",
+    "source/MB_Character sheet.pdf",
+    "source/MBC_Unheroic_feats.pdf",
+    "source/MBC_The-Death-Ziggurat_Player-map.pdf",
+    "source/MBC_The-Death-Ziggurat.pdf",
+    "source/MBC_Sepulchre-of-the-Swamp-Witch_MAP.JPEG",
+    "CLAUDE.md",
+    "expansions/source/MBC_Sepulchre-of-the-Swamp-Witch_MAP.JPEG",
+    "wiki/locations/Bergen Chrypt.md",
+    "wiki/locations/Accursed Den.md",
+    "wiki/creatures/Zombie.md",
+    "wiki/creatures/Wyvern.md",
+    "wiki/creatures/Wraith.md",
+    "wiki/creatures/Forked-Tongue Devotee.md",
+    "wiki/creatures/Berserker.md",
+    "wiki/creatures/Alchemical Ooze.md",
+    "wiki/creatures/Akünh.md",
+    "wiki/factions/Udok Cultists.md",
+    "wiki/factions/Strange Serpent Drug Cult.md",
+    "wiki/factions/README.md",
+    "wiki/factions/Inquisition.md",
+    "wiki/factions/Drowned.md",
+    "wiki/factions/Death-Obsessed Cultists.md",
+    "wiki/factions/Creton Order.md",
+    "wiki/lore/Two-Headed Basilisks.md",
+    "wiki/items/Elixir Vitalis.md",
+    "wiki/items/Emerald Venom.md",
+    "wiki/items/Calumny Pearl.md",
+    "wiki/creatures/Leviathan.md",
+    "wiki/npcs/Klopstock.md",
+    "wiki/items/Goblin Cure.md",
+    "wiki/lore/Goblin Curse.md"
+  ]
+}

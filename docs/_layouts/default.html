@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} — MÖRK BORG Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=IM+Fell+English:ital@0;1&display=swap"
+      rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  </head>
+
+  <body>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">☰ BORG</button>
+    <div class="nav-overlay"></div>
+    <div class="site-wrapper">
+      <nav class="site-nav">
+        <div class="nav-logo">
+          <a href="{{ '/' | relative_url }}">
+            <span class="title-main">MÖRK BORG</span>
+            <span class="title-sub">A Fan-made Wiki of a Dying World</span>
+          </a>
+        </div>
+        {% include nav.html %}
+      </nav>
+      <div class="site-content">
+        <main class="site-main">
+          {{ content }}
+        </main>
+        <footer class="site-footer">
+          <p>Mörk Borg Wiki is an independent production by Trevor Burkholder and is not affiliated
+            with Ockult Örtmästare Games or Stockholm Kartell. It is published under the
+            <a href="https://morkborg.com/license/" target="_blank">MÖRK BORG Third Party License</a>.
+            MÖRK BORG is copyright Ockult Örtmästare Games and Stockholm Kartell.
+            This is an AI-assisted fan project intended as a GM reference tool, not official content.
+          </p>
+        </footer>
+      </div>
+    </div>
+    <script src="{{ '/assets/nav.js' | relative_url }}"></script>
+  </body>
+
+</html>

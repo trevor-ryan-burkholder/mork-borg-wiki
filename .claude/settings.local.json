@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(python module-runner/scripts/extract-bestiary.py)",
+      "Bash(where py *)",
+      "Bash(py --version)",
+      "Bash(node scripts/extract-bestiary.mjs)",
+      "Bash(node -e \"const b=require\\('./src/data/bestiary.json'\\); const bad=b.entries.filter\\(e=>!e.hp || /Morale|No armor/.test\\(e.hp\\) || e.hp.length>4\\); console.log\\(JSON.stringify\\(bad.map\\(e=>\\({n:e.name,hp:e.hp,morale:e.morale,attack:e.attack}\\)\\), null, 2\\)\\);\")",
+      "Bash(node -e \"const b=require\\('./src/data/bestiary.json'\\); const m=b.entries.find\\(e=>e.name.includes\\('Membrane'\\)\\); console.log\\(JSON.stringify\\(m,null,2\\)\\);\")",
+      "Bash(node -e ' *)",
+      "Bash(grep -n \"^\\\\\\\\.ambient-channel__value\" \"c:/Users/trbur/Documents/Claude/Projects/Borg/module-runner/src/styles/components.css\")"
+    ]
+  }
+}
