@@ -6,7 +6,7 @@ What the corpse has on it. Roll d66.
 
 ## d66 Pocket Contents
 
-- **11–16:** *(blank in plaintext source)*
+- **11–16** The remains of something worthless crumbles in your hands. *(recovered via OCR of the p.4 art)*
 - **21** Pot filled with extremely potent itching ointment.
 - **22** Necklace of human teeth.
 - **23** Bag of angry, venomous moths. Test Toughness dr6 or die.
@@ -35,4 +35,4 @@ What the corpse has on it. Roll d66.
 
 **Connections:** [[Inquisition]] (witch-hunters whose faces are stolen), [[Kergüs]], [[d100 Items and Trinkets]] (Cult expansion of similar utility)
 
-**Gaps/Expansion Notes:** Entries 11–16 are blank in plaintext source. Fill from the full art rulebook or invent. The "pixie" of 36 is the only canonical reference to such a creature in the source plaintext.
+**Gaps/Expansion Notes:** Entries 11–16 recovered via OCR ("the remains of something worthless crumbles in your hands"). The "pixie" of 36 is the only canonical reference to such a creature in the source plaintext.

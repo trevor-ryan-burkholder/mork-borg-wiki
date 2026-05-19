@@ -1,10 +1,10 @@
-# Traps (d12)
+# Traps and Devilry (d12)
 **Type:** table
-**Source:** MÖRK BORG Bare Bones Edition, p.3
+**Source:** MÖRK BORG Bare Bones Edition, p.4
 
 | d12 | Trap |
 |---|---|
-| 1 | *(blank in plaintext source)* |
+| 1 | Well-dressed corpse, booby-trapped |
 | 2 | Wall-holes shoot poisonous arrows |
 | 3 | Bells and marbles on the floor |
 | 4 | Scorpion-filled basket poised to fall |

@@ -61,8 +61,35 @@ The [[Tablets of Ochre Obscurity]] are a separate category — clay tablets beha
 | 9 | **Roskoe's Consuming Glare** | d4 creatures lose d8 hp each. *Known to [[Srolki & Yaoxl]].* |
 | 10 | **Enochian Syntax** | One creature blindly obeys a single command. |
 
-**Arcane Catastrophes** (Bare Bones p.43–45) describe what happens on a fumble while wielding Powers — a d20 table of nightmare bargains and impossible errands. Most entries are lost to the typographic spread; only entry 19, **[[Cube-Violet]]**, is recoverable in extraction. It describes four trials inside a perfect empty cube: slay riddling [[Kulvan]] who holds three colourless pearls; poison a close friend with [[Sict-Shroom]]; reach up through fire to a golden key (d4 fingers burn to ash); wait in maddening timeless silence until another fool arrives. The remaining 19 entries are a [CANON CHECK] gap.
+## Arcane Catastrophes (d20) — *Bare Bones p.43–45*
+
+What happens on a fumble while wielding Powers. *Effects in italic are things the caster might not immediately realize.* A caster who rolls the same result twice explodes in screaming black fire in which the faces of the dead are seen — d6 damage each round, and water only feeds this fire.
+
+| d20 | Catastrophe |
+|---|---|
+| 1 | One by one your teeth fall out. Long, brittle fingernails replace them in your gums. Your smile is horrific and you find it hard to eat. |
+| 2 | You feel fine. It's fine. You pustulate with a magical STD. *Those intimate with you die of plague within d4 days, then rise as weeping zombies who hunt you in dreams before finding you in reality.* |
+| 3 | Your skeleton is possessed and will do anything to kill you and escape (drowning or piercing preferred, to spare the bones). Test Strength DR10 in stressful situations or take d4 damage. When you die, you become a zombie. |
+| 4 | The illusion of the celestial sphere is lifted; you see what dwells beyond. *And it sees you.* Gazing upon a clear night sky drives you mad with fear. |
+| 5 | An unending snow of black ash falls around you, perceived only by you and the mad. Water sickens you from this day on — only ash, soot, or burnt remains quench your thirst. |
+| 6 | The earth decays around you like wet flesh. You sink 3 feet, unable to climb out without help. d4 translucent, crayfish-like children with your face cling, scream, and bite. (HP 3, Morale —, no armor, bite/pinch d4) |
+| 7 | Your skin tatters like paper, your flesh melts like wax, your intestines bloat and burst — until all that is left is a walking, talking skeleton. |
+| 8 | A gnashing gap-toothed mouth splits open on your neck. It spits out your secrets and inner thoughts, and can be lulled to sleep only with blood. |
+| 9 | The sky warps and stars spin like wheels. Thrown one day into the future, you arrive vomiting Time as evaporating silver bile. *A Misery is fulfilled.* |
+| 10 | Light itself despises you. If you gaze upon a candle, lamp, or torch, it goes out. |
+| 11 | Within d4 days a vile cocoon heaves from the ground and bursts, spawning your exact clone — unintelligent, spreading mischief and suffering. It recurs every few days until the ground is cleansed with holy water or fire. |
+| 12 | Your eyes burn in agony, bleeding before loosening and falling from their gory pits. *You continue to see through them wherever they are.* |
+| 13 | You and a random nearby creature pass out. When you wake, your souls have switched. Welcome to your new flesh. |
+| 14 | Five twisted, skeletal arms burst from your back. The hands are mischievous, violent, and terribly cruel. |
+| 15 | Your skin pales and emits a sickly greenish light. Living things held close fall ill — weakening, bones brittle, teeth and hair falling out. |
+| 16 | The Power works, but fate or a demonic force perverts its effects to your precise disadvantage. |
+| 17 | The scroll crumbles to fine black powder that reaches for your nose and mouth. Make a Toughness DR14 test or lose d10 HP. |
+| 18 | The Power pierces you like a knife, feeding on your anima. You are permanently gaunt, drawn, and insatiably hungry. When resting you restore only half the rolled HP. |
+| 19 | You fall through Refva into **[[Cube-Violet]]**, an esoteric dimension of mythical obscurity — walls smooth, iridescent, cold; above, an endless inferno. To leave (d4): (1) slay riddling [[Kulvan]], who holds three colourless pearls; (2) poison a close friend with crumbled [[Sict-Shroom]]; (3) reach up through the fire to the golden key (d4 fingers burn to ash); (4) the cube is perfect and empty — wait in maddening timeless silence until another fool arrives. |
+| 20 | Perhaps it's for the best. **[[HE]]** emerges from the shadows. At least your suffering is short, almost instantaneous, as the two-headed basilisk devours you. |
+
+*Recovered from the Bare Bones art spread via OCR (poppler + tesseract).*
 
 **Connections:** [[Tablets of Ochre Obscurity]], [[Forlorn Philosopher]], [[Fletcher]], [[Srolki & Yaoxl]], [[Srolki & Yaoxl]], [[Sagsobuth]], [[Death-Obsessed Cultists]], [[Kulvan]], [[Sict-Shroom]], [[Cube-Violet]]
 
-**Gaps/Expansion Notes:** The full Unclean Powers and Sacred Powers tables are blank in the plaintext source — the most important content gap for any rules-ready wiki. Kulvan, Sict-Shroom, and Cube-Violet are named but otherwise undescribed.
+**Gaps/Expansion Notes:** All three Bare Bones power tables — Unclean Scrolls, Sacred Scrolls, and Arcane Catastrophes — are now fully recovered (the catastrophes via OCR of the p.43–45 art spread). [[Kulvan]], [[Sict-Shroom]], and [[Cube-Violet]] remain named-but-undescribed beyond their catastrophe-19 appearance — open expansion seeds.
